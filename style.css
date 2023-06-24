@@ -1,0 +1,75 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: sticky;
+    background-color: #333;
+    position: fixed;
+    width: 100%;
+    ;
+  }
+  
+  li {
+    float: left;
+    word-spacing: 40px;
+  }
+  
+  /* .lib{
+    float: right;
+    word-spacing: 40px;
+  } */
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    scroll-behavior: smooth;
+  }
+  
+  li a:hover {
+    color: blue;
+  }
+
+
+  input{
+    height: 15%;
+    width: 100%;
+  }
+  
+
+  button{
+    background: black;
+    color:white;
+    height: 2rem;
+    width: 100%;
+  }
+.div1{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: auto;
+
+}
+.table1{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+  table td{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+  }
+
+  .center-form{
+    /* border: 2px solid black; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* margin: 40px 50px ; */
+    /* padding: 30px; */
+
+ margin-left: 12vw ; 
+width: 73vw; 
+  }
